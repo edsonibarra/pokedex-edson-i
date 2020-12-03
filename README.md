@@ -1,2 +1,2 @@
-# pokedex-edson-i
+# pokedex-edson
 Created with CodeSandbox
